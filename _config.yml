@@ -38,6 +38,9 @@ about_content: | # this will include new lines to allow paragraphs
 # Education Section
 # educaton_title: Education
 
+# Publication Section
+# publication_title: Publication
+
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs

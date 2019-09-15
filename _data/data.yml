@@ -1,27 +1,27 @@
 intro:
-    name: Foo Bar
-    title: Backend Developer
+    name: Md Rayhanur Rahman
+    title: Ph.D. Student at Computer Science, North Carolina State University
     avatar:
         display: true
         path: profile.png
 
 contact:
-    email: me@example.com
-    phone: +86-111-1111-1111
+    email: mrahman@ncsu.edu
+    phone: +9196497823
     wechat: 
     telegram: 
-    website: https://example.com
+    website: https://scholar.google.com/citations?user=NIXg5VwAAAAJ&hl=en
     linkedin: 
-    github: github
+    github: rayhanur-rahman
     gitlab: 
     bitbucket: 
-    twitter: twitter
+    twitter:
     stackoverflow: 
     codewars: 
     goodreads: 
 
 languages:
-    display: true
+    display: false
     title: Languages
     items:
         - idiom: Chinese
@@ -36,10 +36,10 @@ interests:
     items:
         - item: Reading
           link:
-        - item: Cooking
+        - item: Motorcycling
     
 profile:
-    display: true
+    display: false
     title: Profile
     details: |
       It's your career profile, you can wirte markdown format text.
@@ -52,51 +52,65 @@ education:
     display: true
     title: Education
     items:
-        - university: Example University
-          time: 2015 - 2018
-          major: Machine Learning
-          degree: Master
+        - university: North Carolina State University
+          time: 2018-2023
+          major: Computer Science
+          degree: Ph.D.
           details: |
             Experience in this university:
-            + First
-            + Second
+            + I am currently working as a Research Assistant supervised by Dr. Laurie Williams. I am investigationg into misuse of user expectations in real world mobile and web applications.
             
             ...
         
-        - university: Example University
-          time: 2011 - 2015
-          major: Computer Science
-          degree: Bachelor
-          details: |
-            Experience in this university:
-            + First
-            + Second
+        - university: University of Dhaka
+          time: 2013-2014
+          major: Software Engineering
+          degree: Masters
             
             ...
+
+        - university: University of Dhaka
+          time: 2009-2012
+          major: Software Engineering
+          degree: Bachelor
+
+           ...
 
 experiences:
     display: true
     title: Experiences
     items:
-        - role: Backend Developer
-          time: 2018.03 - 2019.03
-          company: Second Company
-          location: Beijing
-          details: |
-            Experience in this company:
-            + First
-            + Second
-
+        - role: Assistant Professor
+          time: 2018.08 - Present
+          company: University of Dhaka
+          location: Dhaka, Bangladesh
+         
             ...
         
-        - role: Backend Developer
-          time: 2017.03 - 2018.03
-          company: First Company
-          location: Beijing
-          details: |
-            Experience in this company:
-            + First
-            + Second
+        - role: Lecturer
+          time: 2014.09 - 2018.08
+          company: University of Dhaka
+          location: Dhaka, Bangladesh
+
+            ...
+        - role: Junior Software Engineer
+          time: 2013.12 - 2014.09
+          company: Kaz Software Ltd
+          location: Dhaka, Bangladesh
+
+            ...
+
+        - role: Intern
+          time: 2012.08 - 2013.11
+          company: Kaz Software Ltd
+          location: Dhaka, Bangladesh
+
+            ...
+
+        - role: Intern
+          time: 2011.07 - 2011.12
+          company: Southtech Ltd
+          location: Dhaka, Bangladesh
 
             ...
 
@@ -139,13 +153,13 @@ skills:
     title: Skills
     details: |
       Here is my skills:
-      + First
-      + Second
+      + C#
+      + Python
 
       ...
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.

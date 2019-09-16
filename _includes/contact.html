@@ -78,4 +78,10 @@
     <a href="https://www.goodreads.com/user/show/{{ contact.goodreads }}" target="_blank">{{ contact.goodreads }}</a>
   </li>
   {% endif %}
+
+  {% if contact.googlescholar %}
+  <li class="ai-google-scholar-square"><i class="ai ai-google-scholar-square ai-3x"></i>
+    <a href="https://www.goodreads.com/user/show/{{ contact.goodreads }}" target="_blank">{{ contact.googlescholar }}</a>
+  </li>
+  {% endif %}
 </ul>

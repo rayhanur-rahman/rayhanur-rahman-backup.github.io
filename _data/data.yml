@@ -10,7 +10,7 @@ contact:
     phone: +9196497823
     wechat: 
     telegram: 
-    website: https://scholar.google.com/citations?user=NIXg5VwAAAAJ&hl=en
+    website:
     linkedin: 
     github: rayhanur-rahman
     gitlab: 
@@ -19,6 +19,7 @@ contact:
     stackoverflow: 
     codewars: 
     goodreads: 
+    googlescholar: abc
 
 languages:
     display: false
@@ -59,22 +60,16 @@ education:
           details: |
             Experience in this university:
             + I am currently working as a Research Assistant supervised by Dr. Laurie Williams. I am investigationg into misuse of user expectations in real world mobile and web applications.
-            
-            ...
         
         - university: University of Dhaka
           time: 2013-2014
           major: Software Engineering
           degree: Masters
-            
-            ...
 
         - university: University of Dhaka
           time: 2009-2012
           major: Software Engineering
           degree: Bachelor
-
-           ...
 
 experiences:
     display: true
@@ -84,35 +79,27 @@ experiences:
           time: 2018.08 - Present
           company: University of Dhaka
           location: Dhaka, Bangladesh
-         
-            ...
         
         - role: Lecturer
           time: 2014.09 - 2018.08
           company: University of Dhaka
           location: Dhaka, Bangladesh
 
-            ...
         - role: Junior Software Engineer
           time: 2013.12 - 2014.09
           company: Kaz Software Ltd
           location: Dhaka, Bangladesh
-
-            ...
 
         - role: Intern
           time: 2012.08 - 2013.11
           company: Kaz Software Ltd
           location: Dhaka, Bangladesh
 
-            ...
-
         - role: Intern
           time: 2011.07 - 2011.12
           company: Southtech Ltd
           location: Dhaka, Bangladesh
 
-            ...
 
 projects:
     display: true
@@ -121,10 +108,9 @@ projects:
       This is all the projects I'm involved in.
     
     items:
-        - name: Foo
+        - name: 'P4: Misuse case analysis'
           link: 
-          details: |
-            Project Foo's detail, you can write markdown format text.
+          time: 2019.08 - Present
 
         - name: Bar
           link: 

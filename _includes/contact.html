@@ -81,7 +81,13 @@
 
   {% if contact.googlescholar %}
   <li class="goodreads-g"><i class="ai ai-google-scholar-square ai-1x"></i>
-    <a href="https://www.goodreads.com/user/show/{{ contact.goodreads }}" target="_blank">{{ contact.googlescholar }}</a>
+    <a href="https://scholar.google.com/citations?hl=en&user={{ contact.goodreads }}" target="_blank">{{ contact.googlescholar }}</a>
+  </li>
+  {% endif %}
+
+  {% if contact.researchgate %}
+  <li class="goodreads-g"><i class="fab fa-researchgate"></i>
+    <a href="https://www.researchgate.net/profile/{{ contact.researchgate }}" target="_blank">{{ contact.researchgate }}</a>
   </li>
   {% endif %}
 </ul>

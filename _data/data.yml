@@ -221,7 +221,7 @@ skills:
     title: Skills
     details: |
       Here is my skills:
-      + Languages: Java, C#, Python, Javascript
+      + Languages: Java, C#, Python, Javascript, C
       + Frameworks: ASP.NET MVC, WPF, Windows Forms, Scikit-learn
       + Others: MSSQL, Git, Linux
 

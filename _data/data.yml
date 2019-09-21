@@ -38,7 +38,7 @@ interests:
     title: Interests
     items:
         - item: European Football
-        - item: Travelling
+        - item: Traveling
         - item: Motorcycling
         - item: Playing with Linux Distros
     
@@ -61,7 +61,7 @@ education:
           major: Computer Science
           degree: Ph.D. | 3.58/4.00
           details: |
-            I am currently working as a Research Assistant supervised by [Dr. Laurie Williams](https://scholar.google.com/citations?user=Cln2viUAAAAJ&hl=en). I am investigationg into misuse of user expectations in real world mobile and web applications. Previously, I worked as a Teaching Assistant for graduate level software engineering course for the fall'18 and spring'19 semester with [Dr. Nicholas Kraft](https://nkraft.github.io).
+            I am currently working as a Research Assistant supervised by [Dr. Laurie Williams](https://scholar.google.com/citations?user=Cln2viUAAAAJ&hl=en). I am investigating into misuse of user expectations in real world mobile and web applications. Previously, I worked as a Teaching Assistant for graduate level software engineering courses for the fall'18 and spring'19 semester with [Dr. Nicholas Kraft](https://nkraft.github.io) and [Dr. Jamie Jennings](https://www.csc.ncsu.edu/people/jajenni3).
         
         - university: |
             [University of Dhaka](http://www.iit.du.ac.bd/)
@@ -69,7 +69,7 @@ education:
           major: Software Engineering
           degree: Masters | 3.98/4.00
           details: |
-            I worked with [Dr. Kazi Sakib](https://scholar.google.com/citations?user=G88J0-EAAAAJ&hl=en) on cloud computing domain. My thesis topic is A Peer to Peer Resource Discovery Scheme for Provisioning in Cloud. I also got National Science and Technology Fellowship from Ministry of Science and Technology that supported my research work.
+            I worked with [Dr. Kazi Sakib](https://scholar.google.com/citations?user=G88J0-EAAAAJ&hl=en) on the cloud computing domain. My thesis topic is A Peer to Peer Resource Discovery Scheme for Provisioning in Cloud. I also got the National Science and Technology Fellowship from the Ministry of Science and Technology that supported my research work.
 
 
         - university: |
@@ -78,7 +78,7 @@ education:
           major: Software Engineering
           degree: Bachelor | 3.96/4.00
           details: |
-            Choosing Software Engineering as a major proved to be a fun undergraduate life for me. Learning all the concepts were amazing as well as implementing and watching your own creation was breathetaking. The four years went quickly by building course projects and semester projects along with various programming and softwar development contests. 
+            Choosing Software Engineering as a major proved to be a fun undergraduate life for me. Learning all the concepts were amazing as well as implementing and watching your own creation was breathtaking. The four years went quickly by building course projects and semester projects along with various programming and software development contests. 
 
 experiences:
     display: true
@@ -96,7 +96,7 @@ experiences:
             [University of Dhaka](http://www.iit.du.ac.bd/)
           location: Dhaka, Bangladesh
           details: |
-            I mostly taught undergrad courses such as Discrete Math, Data Structure, Combinatorial Optimization, Object Oriented Concepts and Operating Systems. Apart from teaching, I also worked with Distributed Systems and Sofware Engineering research group focused on cloud computing and software engineering. Several of my researches were funded by Ministry of ICT and University grants commission, Bangladesh. 
+            I mostly taught undergrad courses such as Discrete Math, Data Structure, Combinatorial Optimization, Object Oriented Concepts and Operating Systems. Apart from teaching, I also worked with Distributed Systems and Sofware Engineering research group focused on cloud computing and software engineering. Several of my researches were funded by the Ministry of ICT and University Grants Commission, Bangladesh. 
 
         - role: Junior Software Engineer
           time: 2013.12 - 2014.09
@@ -104,7 +104,7 @@ experiences:
             [Kaz Software Ltd](http://kaz.com.bd/)
           location: Dhaka, Bangladesh
           details: |
-            I worked on a proprietary google chrome extension named LinkableNews and web application named LinkableService which provided web ontology and identity services. The technology we used were C#, ASP.NET MVC 3, KnockoutJs, MS SQL Server etc. Had to write a lot of stored procedures which was not fun.  
+            I worked on a proprietary google chrome extension named LinkableNews and web application named LinkableService which provided web ontology and identity services. The technology we used were C#, ASP.NET MVC 3, KnockoutJs, MS SQL Server etc. I had to write a lot of stored procedures which was not fun.  
 
         - role: Part Time Software Engineer
           time: 2012.08 - 2013.11
@@ -112,7 +112,7 @@ experiences:
             [Kaz Software Ltd](http://kaz.com.bd/)
           location: Dhaka, Bangladesh
           details: |
-            As a part time, first I worked with a team for a tax management application named Orbitax. Later, I worked on a prototype javascript based piano composer named GrooveyBeats.
+            As a part-time employee, first I worked with a team for a tax management application named Orbitax. Later, I worked on a prototype javascript based piano composer named GrooveyBeats.
 
         - role: Intern
           time: 2011.07 - 2011.12
@@ -126,7 +126,7 @@ projects:
     display: true
     title: Projects
     intro: |
-      This is all the projects I'm involved in.
+      These are all the projects I'm involved in.
     
     items:
         - name: SLIC-Ansible
@@ -153,7 +153,7 @@ projects:
           details: |
             Back in earlier days, also did projects on:
             + GroovyBeats: an online piano composer based on KinectJS
-            + Click2Dial: an Microsoft Outlook extension for dialing contacts
+            + Click2Dial: a Microsoft Outlook extension for dialing contacts
             + IITDURMS: Result Management System for IIT, University of Dhaka
             + DSEDROID: An Android App for Dhaka Stock Exchange
             + Greenflash: Behavioral based malware protection system for USB drives, works on Windows platforms
@@ -162,7 +162,7 @@ publications:
     display: true
     title: Publications
     intro: |
-      This is all the research projects I am and were involved
+      These are all the research projects I am and were involved
 
     items:
         - title: "Share but Beware: Security Smells in Python Gists"
@@ -220,7 +220,7 @@ skills:
     display: true
     title: Skills
     details: |
-      Here is my skills:
+      I have done projects using these languages and frameworks:
       + Languages: Java, C#, Python, Javascript, C
       + Frameworks: ASP.NET MVC, WPF, Windows Forms, Scikit-learn
       + Others: MSSQL, Git, Linux

@@ -57,7 +57,8 @@ education:
     display: true
     title: Education
     items:
-        - university: |
+        - 
+          university: |
             [North Carolina State University](https://www.csc.ncsu.edu/)
           time: Since 2018
           major: Computer Science
@@ -65,7 +66,8 @@ education:
           details: |
             I am currently working as a Research Assistant supervised by [Dr. Laurie Williams](https://scholar.google.com/citations?user=Cln2viUAAAAJ&hl=en). I am investigating into misuse of user expectations in real world mobile and web applications. Previously, I worked as a Teaching Assistant for graduate level software engineering courses for the fall'18 and spring'19 semester with [Dr. Nicholas Kraft](https://nkraft.github.io) and [Dr. Jamie Jennings](https://www.csc.ncsu.edu/people/jajenni3).
         
-        - university: |
+        - 
+          university: |
             [University of Dhaka](http://www.iit.du.ac.bd/)
           time: 2013-2014
           major: Software Engineering

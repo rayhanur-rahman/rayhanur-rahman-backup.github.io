@@ -8,17 +8,17 @@
   contact: 
     email: "..."
     phone: 123
-    wechat: null
-    telegram: null
-    website: null
+    wechat: 
+    telegram: 
+    website: 
     linkedin: "test"
     github: "test"
-    gitlab: null
-    bitbucket: null
-    twitter: null
-    stackoverflow: null
-    codewars: null
-    goodreads: null
+    gitlab: 
+    bitbucket: 
+    twitter: 
+    stackoverflow: 
+    codewars: 
+    goodreads: '.'
     googlescholar: "..."
     researchgate: "..."
     resume: "..."

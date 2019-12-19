@@ -7,21 +7,21 @@ intro:
 
 contact:
     email: mrahman@ncsu.edu
-    phone: +9196497823
+    phone: '+9196497823'
     wechat: 
     telegram: 
-    website:
+    website: 
     linkedin: rayhanur-rahman
     github: rayhanur-rahman
     gitlab: 
-    bitbucket: 
-    twitter:
-    stackoverflow: 
+    bitbucket:  
+    twitter: 
+    stackoverflow:  
     codewars: 
-    goodreads:
-    googlescholar: hhh
-    researchgate: Rayhanur_Rahman
-    resume: hhh
+    goodreads: 
+    googlescholar: 
+    researchgate: 'Rayhanur_Rahman'
+    resume: 'hhh'
 
 languages:
     display: false
@@ -59,7 +59,7 @@ education:
             [North Carolina State University](https://www.csc.ncsu.edu/)
           time: Since 2018
           major: Computer Science
-          degree: Ph.D. | 3.58/4.00
+          degree: Ph.D. | 3.78/4.00
           details: |
             I am currently working as a Research Assistant supervised by [Dr. Laurie Williams](https://scholar.google.com/citations?user=Cln2viUAAAAJ&hl=en). I am investigating into misuse of user expectations in real world mobile and web applications. Previously, I worked as a Teaching Assistant for graduate level software engineering courses for the fall'18 and spring'19 semester with [Dr. Nicholas Kraft](https://nkraft.github.io) and [Dr. Jamie Jennings](https://www.csc.ncsu.edu/people/jajenni3).
         
@@ -129,6 +129,10 @@ projects:
       These are all the projects I'm involved in.
     
     items:
+        - name: ResumeSlackBot
+          link: https://github.com/rayhanur-rahman/resumewebsitebuilder
+          details: |
+            A static one page resume website builder bot that lives on Slack platform. It pulls out information from Linkedin, Github and Dblp indexes. It generates website on github.io or web contents as a zip file that can be run with Jekyll. 
         - name: SLIC-Ansible
           link: https://github.com/rayhanur-rahman/SLIC-Ansible
           details: |

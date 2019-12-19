@@ -1,0 +1,8 @@
+---    
+    hobbies: 
+        - name: hudai
+          gear: ggg
+        
+        - name: ggg
+          gear: jjj
+          jjj: ddd

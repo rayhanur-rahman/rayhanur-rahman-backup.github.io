@@ -1,0 +1,14 @@
+{% assign others = site.data.data.others %}
+{% if others and others.display %}
+<section class="section others-section">
+
+  <div class="section-title">
+    {{ others.title }}
+  </div>
+
+  <div class="details">
+    {{ others.details | markdownify }}
+  </div>
+    
+</section>
+{% endif %}

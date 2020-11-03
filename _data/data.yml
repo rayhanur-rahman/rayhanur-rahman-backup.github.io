@@ -260,7 +260,7 @@ skills:
       + Frameworks: ASP.NET MVC, WPF, Windows Forms, Scikit-learn
       + Others: MSSQL, Git, Linux
 
-reviewer:
+others:
     display: true
     title: Contribution to research community
     details: |

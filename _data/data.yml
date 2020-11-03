@@ -59,7 +59,7 @@ education:
             [North Carolina State University](https://www.csc.ncsu.edu/)
           time: Since 2018
           major: Computer Science
-          degree: Ph.D. | 3.78/4.00
+          degree: Ph.D. | 3.81/4.00
           details: |
             I am currently working as a Research Assistant supervised by [Dr. Laurie Williams](https://scholar.google.com/citations?user=Cln2viUAAAAJ&hl=en). I am investigating into misuse of user expectations in real world mobile and web applications. Previously, I worked as a Teaching Assistant for graduate level software engineering courses for the fall'18 and spring'19 semester with [Dr. Nicholas Kraft](https://nkraft.github.io) and [Dr. Jamie Jennings](https://www.csc.ncsu.edu/people/jajenni3).
         
@@ -84,6 +84,22 @@ experiences:
     display: true
     title: Experiences
     items:
+        - role: Research Intern
+          time: 2020.05 - 2020.08
+          company: | 
+            [Microsoft](https://www.microsoft.com/)
+          location: Redmond, WA, United States
+          details: |
+            I have worked with 1ES team to analyze and investigate how the security tools can be improved through the usage data analysis and developer survey
+          
+        - role: Graduate Assistant (RA-TA)
+          time: 2018.08 - Present
+          company: |
+            [Dept. of Computer Science, North Carolina State University](https://www.csc.ncsu.edu/)
+          location: Raleigh, NC, United States
+          details: |
+            As a funded student in Ph.D. program, I am working as a RA under Dr. Laurie Williams, on the domain of cyberthreat intelligence, threat modelling, threat mining, misuse case analysis
+        
         - role: Assistant Professor
           time: 2018.08 - Present (On Study Leave)
           company: |
@@ -169,6 +185,21 @@ publications:
       These are all the research projects I am and were involved
 
     items:
+        - title: "A Literature Review on Mining Cyberthreat Intelligence from Unstructured Texts"
+          authors: Rayhanur Rahman, Rezvan Mahdavi-Hezaveh, Laurie Willaims
+          conference: International Conference on Data Mining, Deep Learning in Cyberthreat Intelligence Workshop, 2020
+          link: https://github.com/rayhanur-rahman/pre-prints/blob/master/20-rrahman-icdm.pdf
+          
+        - title: "Security Smells in Infrastructure as Code Scripts"
+          authors: Akond Rahman, Rayhanur Rahman, Chris Parnin, Laurie Willaims
+          conference: ACM Transaction on Software Engineering and Methodology, 2020
+          link: https://github.com/rayhanur-rahman/pre-prints/blob/master/20-arahman-tosem.pdf
+          
+        - title: "Do Configuration Management Tools Make Systems More Secure? An Empirical Research Plan"
+          authors: Rayhanur Rahman, Laurie Willaims
+          conference: Symposium on the Science of Security (HotSoS), 2020
+          link: https://github.com/rayhanur-rahman/pre-prints/blob/master/20-rrahman-hotsos.pdf
+          
         - title: "Share but Beware: Security Smells in Python Gists"
           authors: Rayhanur Rahman, Akond Rahman, Laurie Willaims
           conference: International Conference on Software Maintenance and Evolution, 2019
@@ -228,6 +259,16 @@ skills:
       + Languages: Java, C#, Python, Javascript, C
       + Frameworks: ASP.NET MVC, WPF, Windows Forms, Scikit-learn
       + Others: MSSQL, Git, Linux
+
+reviewer:
+    display: true
+    title: Contribution to research community
+    details: |
+        I have been serving as a mentor in [Erevna Research Fellowship](https://projects.iq.harvard.edu/erevna)
+        I have served as an internal reviewers for these following conferences:
+        + ICSE 2020
+        + MSR 2020
+        + ESEM 2020
 
 evaluation:
   display: false

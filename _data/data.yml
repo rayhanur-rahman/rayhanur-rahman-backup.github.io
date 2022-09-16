@@ -84,6 +84,13 @@ experiences:
     display: true
     title: Experiences
     items:
+        - role: Instructor
+          time: 2021.05 - 2021.08
+          company: North Carolina State University
+          location: Raleigh, North Carolina
+          details: |
+            I have worked as a summer teaching instructor for C and Software Tools course designed for the undergraduate students.
+          
         - role: Research Intern
           time: 2020.05 - 2020.08
           company: | 
@@ -149,6 +156,7 @@ projects:
           link: https://github.com/rayhanur-rahman/resumewebsitebuilder
           details: |
             A static one page resume website builder bot that lives on Slack platform. It pulls out information from Linkedin, Github and Dblp indexes. It generates website on github.io or web contents as a zip file that can be run with Jekyll. 
+        
         - name: SLIC-Ansible
           link: https://github.com/rayhanur-rahman/SLIC-Ansible
           details: |
@@ -185,6 +193,16 @@ publications:
       These are all the research projects I am and were involved
 
     items:
+        - title: "Why secret detection tools are not enough: An Indsutrial case study"
+          authors: Rayhanur Rahman, Nasif Imtiaz, Margaret-Anne Storey, Laurie Willaims
+          conference: Empirical Software Engineering Journal
+          link: https://link.springer.com/article/10.1007/s10664-021-10109-y
+    
+        - title: "What are the attackers doing now? Automating cyberthreat intelligence extraction from text on pace with the changing threat landscape: A survey"
+          authors: Rayhanur Rahman, Rezvan Mahdavi-Hezaveh, Laurie Willaims
+          conference: ACM Computing Surveys
+          link: https://arxiv.org/abs/2109.06808
+          
         - title: "A Literature Review on Mining Cyberthreat Intelligence from Unstructured Texts"
           authors: Rayhanur Rahman, Rezvan Mahdavi-Hezaveh, Laurie Willaims
           conference: International Conference on Data Mining, Deep Learning in Cyberthreat Intelligence Workshop, 2020

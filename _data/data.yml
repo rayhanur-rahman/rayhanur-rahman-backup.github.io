@@ -61,7 +61,7 @@ education:
           major: Computer Science
           degree: Ph.D. | 3.81/4.00
           details: |
-            I am currently working as a Research Assistant supervised by [Dr. Laurie Williams](https://scholar.google.com/citations?user=Cln2viUAAAAJ&hl=en). I am investigating into misuse of user expectations in real world mobile and web applications. Previously, I worked as a Teaching Assistant for graduate level software engineering courses for the fall'18 and spring'19 semester with [Dr. Nicholas Kraft](https://nkraft.github.io) and [Dr. Jamie Jennings](https://www.csc.ncsu.edu/people/jajenni3).
+            I am currently working as a Research Assistant supervised by [Dr. Laurie Williams](https://scholar.google.com/citations?user=Cln2viUAAAAJ&hl=en). I am investigating into the occurrence patterns of adversarial techniques reported in cyberattack related articles. I use data mining techniques such as association rule mining to investigate into the technique co-occurrence patterns. I am also working on text mining approaches to extract the sequence of adversarial actions that constitutes cyberattacks. My goal is to indentify the patterns among techniques and how we can utilize these patterns to drive the selection of security requirements, controls, and countermeasures. Previously, I worked as a Teaching Assistant for graduate level software engineering courses for the fall'18 and spring'19 semester with [Dr. Nicholas Kraft](https://nkraft.github.io) and [Dr. Jamie Jennings](https://www.csc.ncsu.edu/people/jajenni3).
         
         - university: |
             [University of Dhaka](http://www.iit.du.ac.bd/)

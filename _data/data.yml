@@ -193,6 +193,18 @@ publications:
       These are all the research projects I am and were involved
 
     items:
+        - title: "Preprint: An investigation of security controls and MITRE ATT&CK techniques"
+          authors: Rayhanur Rahman, Laurie Willaims
+          link: https://arxiv.org/abs/2211.06500
+          
+        - title: "Preprint: Investigating co-occurrences of MITRE ATT&CK Techniques"
+          authors: Rayhanur Rahman, Laurie Willaims
+          link: https://arxiv.org/abs/2211.06495
+
+        - title: "Preprint: From Threat Reports to Continuous Threat Intelligence: A Comparison of Attack Technique Extraction Methods from Textual Artifacts"
+          authors: Rayhanur Rahman, Laurie Willaims
+          link: https://arxiv.org/abs/2210.02601
+        
         - title: "Why secret detection tools are not enough: An Indsutrial case study"
           authors: Rayhanur Rahman, Nasif Imtiaz, Margaret-Anne Storey, Laurie Willaims
           conference: Empirical Software Engineering Journal

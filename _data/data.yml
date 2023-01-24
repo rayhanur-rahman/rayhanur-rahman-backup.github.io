@@ -1,6 +1,6 @@
 intro:
     name: Md Rayhanur Rahman
-    title: Ph.D. Student at Computer Science, North Carolina State University
+    title: Ph.D. candidate at Computer Science, North Carolina State University
     avatar:
         display: true
         path: profile.png
@@ -37,6 +37,7 @@ interests:
     display: true
     title: Interests
     items:
+        - item: Classical Piano
         - item: European Football
         - item: Traveling
         - item: Motorcycling
@@ -285,10 +286,13 @@ skills:
     display: true
     title: Skills
     details: |
-      I have done projects using these languages and frameworks:
+      Selected research, and technical skills:
+      + Research: Scientific writing, Qualitative research, meta-analysis
+      + Analysis: Natural language processing, machine learning, graph machine learning,social network analysis
+      + Cybersecurity: Threat intelligence, security control, threat analysis, MITRE ATT&CK
       + Languages: Java, C#, Python, Javascript, C
       + Frameworks: ASP.NET MVC, WPF, Windows Forms, Scikit-learn
-      + Others: MSSQL, Git, Linux
+      + Others: Public procurement, writing for grants and funds,software service architecture design
 
 others:
     display: true

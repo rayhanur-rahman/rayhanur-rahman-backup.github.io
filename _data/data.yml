@@ -61,7 +61,7 @@ education:
           major: Computer Science
           degree: Ph.D. | 3.81/4.00
           details: |
-            I am currently working as a Research Assistant supervised by [Dr. Laurie Williams](https://scholar.google.com/citations?user=Cln2viUAAAAJ&hl=en). I am investigating into the occurrence patterns of adversarial techniques reported in cyberattack related articles. I use data mining techniques such as association rule mining to investigate into the technique co-occurrence patterns. I am also working on text mining approaches to extract the sequence of adversarial actions that constitutes cyberattacks. My goal is to indentify the patterns among techniques and how we can utilize these patterns to drive the selection of security requirements, controls, and countermeasures. Previously, I worked as a Teaching Assistant for graduate level software engineering courses for the fall'18 and spring'19 semester with [Dr. Nicholas Kraft](https://nkraft.github.io) and [Dr. Jamie Jennings](https://www.csc.ncsu.edu/people/jajenni3).
+            I am currently working as a Research Assistant supervised by [Dr. Laurie Williams](https://scholar.google.com/citations?user=Cln2viUAAAAJ&hl=en). I am investigating the occurrence patterns of adversarial techniques reported in cyberattack-related articles. I use data mining techniques such as association rule mining to investigate the technique's co-occurrence patterns. I am also working on text-mining approaches to extract the sequence of adversarial actions that constitute cyberattacks. My goal is to identify the patterns among techniques and how we can utilize these patterns to drive the selection of security requirements, controls, and countermeasures. Previously, I worked as a Teaching Assistant for graduate-level software engineering courses for the fall'18 and spring'19 semesters with [Dr. Nicholas Kraft](https://nkraft.github.io) and [Dr. Jamie Jennings](https://www.csc.ncsu.edu/people/jajenni3).
         
         - university: |
             [University of Dhaka](http://www.iit.du.ac.bd/)
@@ -69,7 +69,7 @@ education:
           major: Software Engineering
           degree: Masters | 3.98/4.00
           details: |
-            I worked with [Dr. Kazi Sakib](https://scholar.google.com/citations?user=G88J0-EAAAAJ&hl=en) on the cloud computing domain. My thesis topic is A Peer to Peer Resource Discovery Scheme for Provisioning in Cloud. I also got the National Science and Technology Fellowship from the Ministry of Science and Technology that supported my research work.
+            I worked with [Dr. Kazi Sakib](https://scholar.google.com/citations?user=G88J0-EAAAAJ&hl=en) on the cloud computing domain. My thesis topic is A Peer-to-Peer Resource Discovery Scheme for Provisioning in Cloud. I also got the National Science and Technology Fellowship from the Ministry of Science and Technology, which supported my research work.
 
 
         - university: |
@@ -78,7 +78,7 @@ education:
           major: Software Engineering
           degree: Bachelor | 3.96/4.00
           details: |
-            Choosing Software Engineering as a major proved to be a fun undergraduate life for me. Learning all the concepts were amazing as well as implementing and watching your own creation was breathtaking. The four years went quickly by building course projects and semester projects along with various programming and software development contests. 
+            Choosing Software Engineering as a major proved to be a fun undergraduate life. Learning all the concepts was amazing, and implementing and watching your own creation was breathtaking. The four years went quickly by building course projects, semester projects, and various programming and software development contests. 
 
 experiences:
     display: true
@@ -89,7 +89,7 @@ experiences:
           company: North Carolina State University
           location: Raleigh, North Carolina
           details: |
-            I have worked as a summer teaching instructor for C and Software Tools course designed for the undergraduate students.
+            I have worked as a summer teaching instructor for C and Software Tools courses designed for undergraduate students.
           
         - role: Research Intern
           time: 2020.05 - 2020.08
@@ -97,7 +97,7 @@ experiences:
             [Microsoft](https://www.microsoft.com/)
           location: Redmond, WA, United States
           details: |
-            I have worked with 1ES team to analyze and investigate how the security tools can be improved through the usage data analysis and developer survey
+            I have worked with 1ES team to analyze and investigate how the security tools can be improved through the usage data analysis and developer survey.
           
         - role: Graduate Assistant (RA-TA)
           time: 2018.08 - Present
@@ -105,7 +105,7 @@ experiences:
             [Dept. of Computer Science, North Carolina State University](https://www.csc.ncsu.edu/)
           location: Raleigh, NC, United States
           details: |
-            As a funded student in Ph.D. program, I am working as a RA under Dr. Laurie Williams, on the domain of cyberthreat intelligence, threat modelling, threat mining, misuse case analysis
+            As a funded student in a Ph.D. program, I am working as a RA under Dr. Laurie Williams on the domain of cyber threat intelligence, threat modeling, threat mining, misuse case analysis.
         
         - role: Assistant Professor
           time: 2018.08 - Present (On Study Leave)
@@ -119,7 +119,7 @@ experiences:
             [University of Dhaka](http://www.iit.du.ac.bd/)
           location: Dhaka, Bangladesh
           details: |
-            I mostly taught undergrad courses such as Discrete Math, Data Structure, Combinatorial Optimization, Object Oriented Concepts and Operating Systems. Apart from teaching, I also worked with Distributed Systems and Sofware Engineering research group focused on cloud computing and software engineering. Several of my researches were funded by the Ministry of ICT and University Grants Commission, Bangladesh. 
+            I mainly taught undergrad courses such as Discrete Math, Data Structure, Combinatorial Optimization, Object Oriented Concepts, and Operating Systems. Apart from teaching, I also worked with Distributed Systems and Sofware Engineering research group focused on cloud computing and software engineering. The Ministry of ICT and University Grants Commission, Bangladesh, funded several portions of my research. 
 
         - role: Junior Software Engineer
           time: 2013.12 - 2014.09
@@ -127,7 +127,7 @@ experiences:
             [Kaz Software Ltd](http://kaz.com.bd/)
           location: Dhaka, Bangladesh
           details: |
-            I worked on a proprietary google chrome extension named LinkableNews and web application named LinkableService which provided web ontology and identity services. The technology we used were C#, ASP.NET MVC 3, KnockoutJs, MS SQL Server etc. I had to write a lot of stored procedures which was not fun.  
+            I worked on a proprietary google chrome extension named LinkableNews and a web application named LinkableService, which provided web ontology and identity services. The technology we used were C#, ASP.NET MVC 3, KnockoutJs, MS SQL Server, etc. I had to write a lot of stored procedures, which could have been more fun.  
 
         - role: Part Time Software Engineer
           time: 2012.08 - 2013.11
@@ -135,7 +135,7 @@ experiences:
             [Kaz Software Ltd](http://kaz.com.bd/)
           location: Dhaka, Bangladesh
           details: |
-            As a part-time employee, first I worked with a team for a tax management application named Orbitax. Later, I worked on a prototype javascript based piano composer named GrooveyBeats.
+            As a part-time employee, I first worked with a team for a tax management application named Orbitax. Later, I worked on a prototype javascript-based piano composer named GrooveyBeats.
 
         - role: Intern
           time: 2011.07 - 2011.12
@@ -143,7 +143,7 @@ experiences:
             [Southtech Ltd](https://www.southtechgroup.com)
           location: Dhaka, Bangladesh
           details: |
-            I worked on SCALED - Human resource management desktop based application built upon visual basic and Microsoft SQL server.
+            I worked on SCALED - A human resource management desktop-based application built upon visual basic and Microsoft SQL server.
 
 projects:
     display: true
@@ -155,17 +155,17 @@ projects:
         - name: ResumeSlackBot
           link: https://github.com/rayhanur-rahman/resumewebsitebuilder
           details: |
-            A static one page resume website builder bot that lives on Slack platform. It pulls out information from Linkedin, Github and Dblp indexes. It generates website on github.io or web contents as a zip file that can be run with Jekyll. 
+            A static one-page resume website builder bot that lives on the Slack platform. It pulls out information from Linkedin, Github, and Dblp indexes. It generates a website on github.io or web contents as a zip file that can be run with Jekyll. 
         
         - name: SLIC-Ansible
           link: https://github.com/rayhanur-rahman/SLIC-Ansible
           details: |
-            SLIC is a static analysis tool that looks for security smells in infrastructure as code (IaC) scripts. This project is aimed to identify security smells in Ansible playbooks.
+            SLIC is a static analysis tool that looks for security smells in infrastructure as code (IaC) scripts. This project is aimed at identifying security smells in Ansible playbooks.
         
         - name: Online Software Defect Prediction using VFDT
           link: https://github.com/rayhanur-rahman/VFDT-Defect-Prediction
           details: |
-           This is a course project for Foundation on Software Science by [Dr. Tim Menzies](http://menzies.us/). It is a scalable online learner for software defect prediction based on Hoefdingg tree.
+           This is a course project for Foundation on Software Science by [Dr. Tim Menzies](http://menzies.us/). It is a scalable online learner for software defect prediction based on the Hoefdingg tree.
         
         - name: Spark API Converter
           link: https://github.com/rayhanur-rahman/Spark-Api-Converter
@@ -179,18 +179,18 @@ projects:
         
         - name: Others
           details: |
-            Back in earlier days, also did projects on:
+            Back in earlier days, I also did projects on:
             + GroovyBeats: an online piano composer based on KinectJS
             + Click2Dial: a Microsoft Outlook extension for dialing contacts
             + IITDURMS: Result Management System for IIT, University of Dhaka
             + DSEDROID: An Android App for Dhaka Stock Exchange
-            + Greenflash: Behavioral based malware protection system for USB drives, works on Windows platforms
+            + Greenflash: Behavioral-based malware protection system for USB drives, works on Windows platforms
 
 publications:
     display: true
     title: Publications
     intro: |
-      These are all the research projects I am and were involved
+      These are all the research projects I am and were involved.
 
     items:
         - title: "Preprint: An investigation of security controls and MITRE ATT&CK techniques"
@@ -292,10 +292,10 @@ skills:
 
 others:
     display: true
-    title: Contribution to research community
+    title: Contribution to the research community
     details: |
         I have been serving as a mentor in [Erevna Research Fellowship](https://projects.iq.harvard.edu/erevna)
-        I have served as an internal reviewers for these following conferences:
+        I have served as an internal reviewer for these following conferences:
         + ICSE 2020
         + MSR 2020
         + ESEM 2020
